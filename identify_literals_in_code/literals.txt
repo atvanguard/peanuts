@@ -1,8 +1,0 @@
-500
-0x90FaBB
-0771
-556
-0xAbCdEF
-1999999ull
-The Dark knight
-lo"p

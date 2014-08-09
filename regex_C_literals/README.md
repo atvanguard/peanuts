@@ -7,7 +7,7 @@ Integer Literals
     Octal - prefix - 0
 
     Suffix - u, l, ul, ull
-    VALID Delimiters: ASCII: 32, !=, 37, 38, 40-43, 45, 47, 59-62, 124
+    VALID Delimiters: ASCII: 32, !=, 37, 38, 40-45, 47, 59-62, 124
 
 
 String Literals
